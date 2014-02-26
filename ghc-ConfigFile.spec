@@ -15,6 +15,7 @@ BuildRequires:	ghc-devel
 BuildRequires:	haddock
 BuildRequires:	haskell-macros
 BuildRequires:	haskell(MissingH)
+BuildRequires:	haskell(mtl)
 BuildRequires:	haskell(parsec)
 Requires(post,preun):	ghc
 Requires(pre):	haskell(MissingH)
