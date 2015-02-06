@@ -5,7 +5,7 @@
 Summary:	Configuration file reading & writing
 Name:		ghc-%{module}
 Version:	1.1.1
-Release:	3
+Release:	4
 License:	LGPLv2+
 Group:		Development/Other
 Url:		http://hackage.haskell.org/package/%{module}
